@@ -1,4 +1,7 @@
-### Hi there 👋
+### Olá, meu nome é Marcelo Paludetto Rodrigues
+
+- Estou trabalhando no Programa EduTech; 
+- Estou aprendendo a programar HTML, CSS, JS, Python e Java; 
 
 <!--
 **marcelopaludetto/marceloPaludetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
