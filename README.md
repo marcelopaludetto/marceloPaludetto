@@ -3,6 +3,9 @@
 - Estou trabalhando no Programa EduTech; 
 - Estou aprendendo a programar HTML, CSS, JS, Python e Java; 
 
+![](https://komarev.com/ghpvc/?username=marcelopaludetto&style=flat-square)
+
+
 <!--
 **marcelopaludetto/marceloPaludetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
