@@ -5,6 +5,8 @@
 
 ![](https://komarev.com/ghpvc/?username=marcelopaludetto&style=flat-square)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelopaludetto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **marcelopaludetto/marceloPaludetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
