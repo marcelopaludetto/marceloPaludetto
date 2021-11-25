@@ -5,9 +5,6 @@
 
 ![](https://komarev.com/ghpvc/?username=marcelopaludetto&style=flat-square)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelopaludetto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <a href="mailto:marcelo.paludetto@alura.com.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
 
 <!--
