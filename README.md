@@ -20,4 +20,28 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+# Seção 1 
+## Sub seção 1
+_Editando o perfil_ 
+
+## Sub seção 2
+**Editando o perfil** 
+
+```
+<html>
+<h1> Editando perfil </h1>
+</html>
+```
+
+## Tabelas
+
+|Número|Tabela|
+|-----|-----|
+|1|Edição|
+|2|Do|
+|3|Perfil|
+
+Site para acessar a ![](https://github-readme-stats.vercel.app/api?username=marcelopaludetto)  
+<a href="mailto:marcelo.paludetto@alura.com.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
 -->
