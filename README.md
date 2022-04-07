@@ -1,6 +1,6 @@
 ### Olá, meu nome é Marcelo Paludetto Rodrigues
 
-- Estou trabalhando no Programa EduTech; 
+- Estou trabalhando no [Programa EduTech](https://www.educacao.pr.gov.br/programacao); 
 - Estou aprendendo a programar HTML, CSS, JS, Python e Java; 
 
 ![](https://komarev.com/ghpvc/?username=marcelopaludetto&style=flat-square)
