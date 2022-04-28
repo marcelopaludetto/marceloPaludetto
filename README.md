@@ -6,7 +6,7 @@
 
 [Perfil do Github](www.github.com/marcelopaludetto)
 
-[Scratch](www.scratch.mit.edu)
+[Scratch](https://scratch.mit.edu/)
 
 
 
