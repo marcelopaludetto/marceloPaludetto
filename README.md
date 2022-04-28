@@ -1,13 +1,47 @@
 ### Olá, meu nome é Marcelo Paludetto Rodrigues
 
+- Estou participando do Grupo de Estudo de **Formadores em Ação**
 - Estou trabalhando no [Programa EduTech](https://www.educacao.pr.gov.br/programacao); 
 - Estou aprendendo a programar HTML, CSS, JS, Python e Java; 
 
+[Perfil do Github](www.github.com/marcelopaludetto)
+
+[Scratch](www.scratch.mit.edu)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
 ![](https://komarev.com/ghpvc/?username=marcelopaludetto&style=flat-square)
 
 <a href="mailto:marcelo.paludetto@alura.com.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
 
-<!--
+
+![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
+
 **marcelopaludetto/marceloPaludetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
