@@ -4,8 +4,6 @@
 - Estou trabalhando no [Programa EduTech](https://www.educacao.pr.gov.br/programacao); 
 - Estou aprendendo a programar HTML, CSS, JS, Python e Java; 
 
-[Perfil do Github](www.github.com/marcelopaludetto)
-
 [![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)](https://scratch.mit.edu/)
 
 [![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://editor.p5js.org/)
