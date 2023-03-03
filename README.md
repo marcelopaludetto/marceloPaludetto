@@ -1,16 +1,22 @@
-## Olá 👋
+## Hello👋
 
-Meu nome é Marcelo Paludetto Rodrigues 👨‍🏫
+**My name is Marcelo Paludetto Rodrigues, but you can call me Paludetto.** 
 
-- Estou participando do Grupo de Estudo de **Formadores em Ação**
-- Estou trabalhando no [Programa EduTech](https://www.educacao.pr.gov.br/programacao); 
-- Estou aprendendo a programar HTML, CSS, JS, Python e Java; 
+- Currently working at [Alura](https://www.alura.com.br/);
+- I have master's degree in Electrical and Computer Engineering; 
+- I always love to teach, specially kids. 
 
+#### To do that I use: 
 
+- 🐈 [Scratch](https://scratch.mit.edu/users/Paludetto/) 
+- 🎨 [p5.js](https://editor.p5js.org/marcelopaludetto/sketches) 
+- 💻 HTML/CSS/JS
+- 🧑‍🔬 Data Science
+- 🤖 Robotics
 
-[![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)](https://scratch.mit.edu/) [![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://editor.p5js.org/)
+> Code to learn
 
-### Contatos
+#### You can talk to me: 
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelopaludetto/)
 [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/marcelopaludetto)
