@@ -4,7 +4,7 @@
 
 - Currently working at [Alura](https://www.alura.com.br/);
 - I have master's degree in Electrical and Computer Engineering; 
-- I always love to teach, specially kids. 
+- I love being a teacher.
 
 #### To do that I use: 
 
